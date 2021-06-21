@@ -18,3 +18,5 @@
 #### Changes:
 - Changed the structure of the folders
 - Code refactoring: mostly prompting for user input
+- Pushed code to github to automate build @ hub.docker.com
+
